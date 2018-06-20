@@ -1,4 +1,4 @@
-FROM node:8.1.13
+FROM node:9.5.0
 
 MAINTAINER Serhii Matrunchyk <serhii@digitalidea.studio>
 
