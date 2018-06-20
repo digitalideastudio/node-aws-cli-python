@@ -1,4 +1,5 @@
-FROM node:9.5.0
+FROM node:8.1.13
+
 MAINTAINER Serhii Matrunchyk <serhii@digitalidea.studio>
 
 RUN apt-get update && apt-get install -y \
